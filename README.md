@@ -1,4 +1,4 @@
-# Noku Network
+# Navo Network
 
 ```diff
 
@@ -16,7 +16,7 @@
 
 !  Locally Stored and Hosted Proxy Server
 
-! This allows your PhoenixHub site to have a proxy already equipped when you deploy it so you can quickly get to circumventing censorship!
+! This allows your Navo Network site to have a proxy already equipped when you deploy it so you can quickly get to circumventing censorship!
 
  #### Games
 
@@ -24,7 +24,7 @@
 
  #### Chatboxes
 
-! Chatboxes for Noku Network's Services. Replace if needed.
+! Chatboxes for Navo Network's Services. Replace if needed.
 
  #### Suggest Some Stuff!
  
